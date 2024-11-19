@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YevgeniySokolov. I have many years of experience in IT. I deeply value people and believe in their potential.
+- 👋 Hi, I’m Yevgeniy Sokolov. I have many years of experience in IT. I deeply value people and believe in their potential.
 - 👀 I’m passionate about Python development (Backend, Data Science, and Machine Learning).
 - 🌱 Currently, I’m focused on mastering Python backend development.
 - 💞️ I’m open to collaboration, including commercial projects.
